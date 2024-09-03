@@ -33,17 +33,20 @@ python button_clicker.py
 ```
 
 image_detecter.py
+
 This script continuously scans the screen for an image named accept.png and prints its location if found.
 ```sh
 python image_detecter.py
 ```
 
 lol_accpeter.py
+
 This script detects and accepts game invites by clicking on the "accept" button.
 ```sh
 python lol_accpeter.py
 ```
 mouse_position.py
+
 This script displays the current mouse position on the screen.
 ```sh
 python mouse_position.py
