@@ -7,11 +7,11 @@ This project contains scripts for automating mouse clicks and detecting images o
 - **button_clicker.py**: Contains a script to detect a button on the screen and click it.
 - **image_detecter.py**: Continuously scans the screen for a specific image and prints its location if found.
 - **lol_accpeter.py**: Specifically designed to detect and accept game invites by clicking on the "accept" button.
-- **mouse_position.py**: Displays the current mouse position on the screen.
+- **mouse_position.py**: Displays the current mouse position on the screen .
 
 ## Dependencies
 
-- `pyautogui`
+- `pyautogui` 
 - `keyboard`
 - `win32api`
 - `win32con`
